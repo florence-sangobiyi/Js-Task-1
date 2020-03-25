@@ -16,3 +16,9 @@ function displayOdd (num){
         }
     }
 }
+if (courses.length % 2 === 0) {
+    displayEven(200)
+  } else {
+    displayOdd(200)
+  }
+  
